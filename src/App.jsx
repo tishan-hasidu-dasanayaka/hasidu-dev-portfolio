@@ -74,8 +74,8 @@ function App() {
 
             <div className="social-links">
               <span>FIND ME ON</span>
-              <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub ↗</a>
-              <a href="https://t.me/" target="_blank" rel="noreferrer">Telegram ↗</a>
+              <a href="https://github.com/tishan-hasidu-dasanayaka" target="_blank" rel="noreferrer">GitHub ↗</a>
+              <a href="https://t.me/itz_tishanhasidu" target="_blank" rel="noreferrer">Telegram ↗</a>
             </div>
 
             <div className="tech-pills">
@@ -175,9 +175,9 @@ function App() {
           <div className="contact-panel">
             <div><span className="section-number">05 / GET IN TOUCH</span><h2>Have an idea?<br />Let's make it real.</h2><p>Interested in a project, collaboration, or talking tech? Reach out using the links here.</p><a className="button button-primary" href="mailto:your-email@example.com?subject=Project%20enquiry">Send an email ↗</a></div>
             <div className="contact-options">
-              <a href="https://github.com/" target="_blank" rel="noreferrer"><span><b>GitHub</b><small>Code & repositories</small></span><b>↗</b></a>
-              <a href="https://t.me/" target="_blank" rel="noreferrer"><span><b>Telegram</b><small>Quick message</small></span><b>↗</b></a>
-              <a href="mailto:your-email@example.com"><span><b>Email</b><small>your-email@example.com</small></span><b>↗</b></a>
+              <a href="https://github.com/tishan-hasidu-dasanayaka" target="_blank" rel="noreferrer"><span><b>GitHub</b><small>Code & repositories</small></span><b>↗</b></a>
+              <a href="https://t.me/itz_tishanhasidu" target="_blank" rel="noreferrer"><span><b>Telegram</b><small>Quick message</small></span><b>↗</b></a>
+              <a href="mailto:tishanhasidu07@gmail.com"><span><b>Email</b><small>tishanhasidu07@gmail.com</small></span><b>↗</b></a>
             </div>
           </div>
         </section>
