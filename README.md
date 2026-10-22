@@ -133,9 +133,9 @@ Every new push to the connected GitHub branch can trigger a new deployment.
 - [x] Build a responsive layout
 - [x] Add project category filters
 - [x] Add interactive project details
+- [x] Add verified social and contact links
+- [x] Continue improving accessibility and performance
 - [ ] Connect real project repositories and live demos
-- [ ] Add verified social and contact links
-- [ ] Continue improving accessibility and performance
 - [ ] Showcase more completed projects
 
 ## 👨‍💻 Developer
